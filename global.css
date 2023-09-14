@@ -1,0 +1,7 @@
+.right {float: right !important;}
+.left {float: left !important;}
+.hide {display: none !important;}
+.show {display: block !important;}
+.clear:before,
+.clear:after {display: table;content: " ";}
+.clear:after {clear: both;}
